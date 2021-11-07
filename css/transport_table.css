@@ -1,0 +1,28 @@
+#wrapper {
+  width: 100%;
+}
+
+.lentele {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.lenteles_head {
+  width: 400px;
+}
+
+.lenteles_text {
+  width: 430px;
+  border: 1px solid black;
+}
+
+.lenteles_thead > .tr {
+  position: relative;
+  display: block;
+}
+
+.lenteles_body {
+  display: block;
+  height: 250px;
+  overflow: auto;
+}
